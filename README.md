@@ -2,6 +2,8 @@
 
 Este é um jogo interativo de Amigo Secreto desenvolvido com HTML, CSS e JavaScript. Permite adicionar amigos, sortear os pares aleatoriamente e exibir os resultados de forma clara.
 
+<img src="https://raw.githubusercontent.com/PedroHSS01/jg-Amigo-secreto/refs/heads/main/challenge-amigo-secreto_pt-main/assets/exemplo.PNG">
+
 ## Como Jogar
 
 1.  Abra o arquivo `index.html` no seu navegador.
